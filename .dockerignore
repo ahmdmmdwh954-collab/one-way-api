@@ -1,0 +1,10 @@
+.git
+**/node_modules
+**/.env*
+**/data
+**/backups
+**/tests
+**/scripts
+**/*.sqlite*
+**/*.db
+**/*.log
